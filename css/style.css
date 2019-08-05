@@ -122,13 +122,13 @@ span.tour {
 }
 /*--banner start here--*/
 .banner {
-    background: url(../images/ban1.jpg)no-repeat;
+    background: url(../images/BAN1.jpg)no-repeat;
     
     min-height: 800px;
     background-size: contain;
 }
 .banner1{
-    background: url(../images/ban1.jpg)no-repeat;
+    background: url(../images/BAN1.jpg)no-repeat;
     min-height:300px;
     background-size: contain;
 }
