@@ -122,31 +122,25 @@ span.tour {
 }
 /*--banner start here--*/
 .banner {
-    background: url(../images/ban1.png)no-repeat;
-    background-color: #ff6b6b;
+    background: url(../images/BAN1.jpg)no-repeat;
+    
     min-height: 800px;
     background-size: contain;
-    
 }
 .banner1{
-    background: url(../images/ban1.png)no-repeat;
+    background: url(../images/BAN1.jpg)no-repeat;
     min-height:300px;
     background-size: contain;
-    background-color: #ff6b6b;
-
 }
 .banner-main {
     text-align: center;
-    padding-top: 0em;
-    margin-top: 0;
+    padding-top: 10em;
 }
 .banner-main h3 {
     font-size: 3.5em;
-    color: #bdc3c7;
-    font-weight: 150;
+    color: #CB2027;
+    font-weight: 300;
     margin-bottom: 0.5em;
-    font-family: "Open Sans";
-
 }
 .banner-main h4 {
      font-size: 4em;
@@ -157,7 +151,7 @@ span.tour {
     font-size: 1em;
     color: #fff;
     background: #CB2027;
-    padding: 0.7em 3em;
+    padding: 0.9em 3em;
     display: inline-block;
     margin-top: 2em;
     text-decoration: none;
@@ -188,7 +182,6 @@ span.tour {
 /*--- slider-css --*/
 .slider-bann{
 	position:relative;
-    margin-top:-80px;
 }
 .rslides {
   position: relative;
@@ -223,7 +216,7 @@ span.tour {
 	border: none;
 	box-shadow: none;
 	position: relative;
-	top: -100px;
+	top: -90px;
 	z-index: 999;
 }
 .callbacks_tabs a:after {
@@ -1617,7 +1610,7 @@ span.rit-bar-contact {
 }
 .banner-main {
     text-align: center;
-    padding-top:6em;
+    padding-top:8em;
 }
 .banner {
     min-height: 705px;
@@ -3035,14 +3028,5 @@ h3.typo1 {
   font-size: 1.5em;
 }	
 
-}
-
-.sponsors {
-    width:100%;
-    height:20%;
-    position: relative;
- 
-    display: inline-block;
-    margin-top: 55px;
 }
 /*--meadia quiries end here--*/
