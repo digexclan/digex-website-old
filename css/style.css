@@ -33,6 +33,7 @@ a:hover {
 }
 .top-navg ul.res li {
     display: inline-block;
+    
 }
 .header {
     padding: 1.5em 0em;
@@ -3030,3 +3031,6 @@ h3.typo1 {
 
 }
 /*--meadia quiries end here--*/
+.winner1{
+    margin-top: 10px;
+}
